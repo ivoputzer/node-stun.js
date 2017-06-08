@@ -2,5 +2,22 @@
   "name": "stun.js",
   "author": "Ivo von Putzer Reibegg <ivo.putzer@gmail.com> (https://github.com/ivoputzer)",
   "version": "0.0.0-draft.0",
-  "private": false
+  "private": false,
+  "description": "is a RFC-5389 compatible STUN server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "m.test"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivoputzer/node-stun.js.git"
+  },
+  "keywords": [
+    "stun"
+  ],
+  "bugs": {
+    "url": "https://github.com/ivoputzer/node-stun.js/issues"
+  },
+  "homepage": "https://github.com/ivoputzer/node-stun.js#readme"
 }
